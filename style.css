@@ -58,7 +58,7 @@ a {
 }
 
 .herotext {
-    font-size: 36px;
+    font-size: 30px;
     font-weight: bold;
     color: #F9FAF8;
 }
@@ -101,7 +101,7 @@ a {
 .infoimage {
     width: 135px;
     height: 135px;
-    border: 1px solid #3882F6;
+    /* border: 1px solid #3882F6; */
     border-radius: 8px;
 }
 
@@ -149,7 +149,7 @@ a {
 }
 
 .callmaintext {
-    font-size: 18px;
+    font-size: 36px;
     font-weight: bold;
 }
 
