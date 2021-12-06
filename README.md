@@ -1,1 +1,3 @@
-# landing_page
+Odin Project landing page
+html, css
+flexbox
