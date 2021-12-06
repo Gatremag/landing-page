@@ -1,0 +1,176 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+}
+
+.header,
+.hero,
+.footer {
+    background-color: #1F2937;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.links a,
+.hero2ndtext {
+    font-size: 14px;
+    color: #E5E7EB;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 120px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-between;
+    gap: 18px;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 70px 120px;
+    gap: 40px;
+}
+
+.herotext {
+    font-size: 36px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.im {
+    width: 800px;
+    height: 170px;
+}
+
+.button {
+    background-color: #3882F6;
+    border: 1px solid #3882F6;
+    color: white;
+    font-weight: 600;
+    padding: 4px 20px;
+    border-radius: 8px;
+}
+.info {
+    padding: 15px 120px;
+}
+.infotext {
+    font-size: 30px;
+    font-weight: 800;
+    color: #1F2937;
+    text-align: center;
+}
+
+.infocontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 120px;
+    gap: 40px;
+}
+
+.infosquare {
+    max-width: 135px;
+}
+
+.infoimage {
+    width: 135px;
+    height: 135px;
+    border: 1px solid #3882F6;
+    border-radius: 8px;
+}
+
+.infosubtext {
+    text-align: center;
+    font-size: 14px;
+}
+
+.quote {
+    background-color: #E5E7EB;
+    padding: 70px 200px;
+}
+
+.quotetext {
+    font-size: 24px;
+    font-style: italic;
+}
+
+.quotesign {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: bold;
+    text-align: right;
+}
+
+.call {
+    padding: 70px 120px;
+    display: flex;
+    justify-content: center;
+}
+
+.catact {
+    background-color: #3882F6;
+    flex: 1;
+    border-radius: 8px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.catacttext,
+.catactbut {
+    padding: 40px 80px;
+}
+
+.callmaintext {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.callsubtext {
+    font-size: 12px;
+}
+
+
+
+.buttonact {
+    background-color: #3882F6;
+    border: 1px solid white;
+    color: white;
+    font-weight: 600;
+    padding: 4px 20px;
+    border-radius: 8px;
+}
+
+.footer {
+    padding: 25px 120px;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+}
